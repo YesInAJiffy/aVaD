@@ -1,8 +1,5 @@
 
 
-Here is an updated version of your document that cleanly separates **Upstream Sourcing (S2C)** from **Downstream Purchasing (P2P)**—using swimlanes in the flowcharts so readers can immediately see where requests cross into Sourcing and return to Purchasing.
-
----
 
 # SAP Ariba in Simple Terms
 
@@ -256,6 +253,7 @@ In IT and corporate procurement (including SAP Ariba), companies sign **one over
 └─────────────────┘ └─────────────────┘ └─────────────────┘
 
 ```
+<img width="1376" height="768" alt="Gemini_Generated_Image_u322y3u322y3u322" src="https://github.com/user-attachments/assets/fc235667-9775-4f4c-86b2-1f0eeb05a270" />
 
 ---
 
